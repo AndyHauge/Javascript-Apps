@@ -3,4 +3,4 @@
 
 # Live Deploys
 
-**Business Card** is live at https://curubethion.com/Javascript/Business-Card/
+**Business Card** is live at https://curubethion.com/javascript/business-card/
