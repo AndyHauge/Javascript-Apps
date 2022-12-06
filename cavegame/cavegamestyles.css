@@ -1,0 +1,41 @@
+#debug {
+    margin-top:3em;
+}
+
+.cave-buttons {
+    min-height:12em;
+}
+
+.cave-buttons button {
+    height:10em;
+    width:7em;
+    border-radius:1em;
+
+    border:0.4em solid black;
+    box-shadow: inset 0em 0em 2em black;
+    background: linear-gradient(to top, black, 20%, rgba(0,0,0,0)), radial-gradient(black, 70%, #996633);
+
+    color:#ffffff;
+    font-family: Wingdings, 'Zapf Dingbats';
+    font-size:1em;
+    letter-spacing:0.5rem;
+}
+
+.cave-buttons button + button {
+    margin-left:0.5em;
+}
+
+.cave-game {
+    /*background: linear-gradient(to top, #774411, #DDBB66);*/
+    max-width:50em;
+    padding:2em;
+}
+
+.cave-glyphs {
+    font-family: Wingdings, 'Zapf Dingbats';
+}
+
+.check-log {
+    height:8em;
+    overflow-y:auto;
+}
